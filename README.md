@@ -141,7 +141,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 
 ![Screenshot 2025-04-27 132352](https://github.com/user-attachments/assets/23a5adb4-1ee4-48ce-8222-ef8061f985cf)
 
-##INPUT:
+## INPUT:
 
 ![Screenshot 2025-04-27 132359](https://github.com/user-attachments/assets/6612eccb-c0dd-4952-9678-dff2633df7a7)
 
